@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **enskose/enskose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,7 +15,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-  <h1>Hi, I'm Enes Köse 👋</h1>
+  <h1>Hi, I'm Enes Köse</h1>
   <h3>Jr. Data Platform Specialist @ Kariyer.net</h3>
   
   <p>
