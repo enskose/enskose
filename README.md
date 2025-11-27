@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 ---
 
-### ⚡ What I Do Right Now (The 10-Second Summary)
+### What I Do Right Now
 
 I am currently working on **Data Platform Modernization** and **LLM Product Support**. My daily workflow includes:
 
@@ -54,23 +54,19 @@ I am currently working on **Data Platform Modernization** and **LLM Product Supp
 
 ---
 
-### 🛠️ Technical Experience
+### Technical Experience
 
 #### **Jr. Data Platform Specialist | Kariyer.net**
 *(Current)*
 > Focusing on Metadata Governance, AI/LLM Optimization, and Cloud Data Processes.
-* **Governance:** Orchestrating metadata ingestion via YAML configurations on DataHub.
-* **AI Support:** Collaborating with dev teams to improve Text-to-SQL accuracy through prompt refinement.
-* **Automation:** Developing Python scripts to visualize data lineage from cloud pipelines.
-
-#### **Software Support Intern | LojiPlatform**
-*(May 2023 - Oct 2023)*
-* Developed customized **Odoo** modules using Python and XML.
-* Gained hands-on experience in backend processes and database logic.
+* Contributed to enterprise-level metadata lifecycle management through DataHub.
+* Performed recursive metadata cleanup operations by managing URNs via CLI.
+* Enhanced LLM output quality through systematic prompt engineering and failure analysis.
+* Participated in cloud migration and data flow design using Azure Synapse.
+* Built Python-based tools for column-level lineage extraction and metadata analysis.
+* Supported cross-team collaboration by bridging communication between AI teams and data platform operations.
 
 ---
-
-### 🧩 Featured Analysis Projects
 
 | Project | Tech Stack | Impact |
 | :--- | :--- | :--- |
