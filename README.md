@@ -14,3 +14,71 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+
+  <h1>Hi, I'm Enes Köse 👋</h1>
+  <h3>Jr. Data Platform Specialist @ Kariyer.net</h3>
+  
+  <p>
+    <b>Bridging the gap between Data Engineering, Metadata Management & AI Operations.</b>
+  </p>
+
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:enskosel@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-c14438?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
+
+  <br/><br/>
+
+  <img src="https://img.shields.io/badge/Data_Governance-DataHub-purple?style=flat-square&logo=databricks" />
+  <img src="https://img.shields.io/badge/Cloud_Data-Azure_Synapse-0078D4?style=flat-square&logo=azure" />
+  <img src="https://img.shields.io/badge/AI_Ops-LLM_&_Prompt_Eng.-10a37f?style=flat-square&logo=openai" />
+  <img src="https://img.shields.io/badge/Language-Python-3776AB?style=flat-square&logo=python" />
+  <img src="https://img.shields.io/badge/Language-SQL-4479A1?style=flat-square&logo=postgresql" />
+  <img src="https://img.shields.io/badge/Viz-Power_BI-F2C811?style=flat-square&logo=powerbi" />
+
+</div>
+
+---
+
+### ⚡ What I Do Right Now (The 10-Second Summary)
+
+I am currently working on **Data Platform Modernization** and **LLM Product Support**. My daily workflow includes:
+
+* **Metadata Management (DataHub):** Managing ingestion flows and utilizing **DataHub CLI** for automated governance operations (recursive delete, urn-based updates).
+* **LLM Operations (Text-to-SQL):** Supporting an in-house **AI product** via Prompt Engineering, error analysis, and debugging to minimize hallucinations.
+* **Data Engineering (Azure & Python):** Parsing `dataflow.json` files in **Azure Synapse** using Python to extract and map **Column-Level Lineage**.
+
+---
+
+### 🛠️ Technical Experience
+
+#### **Jr. Data Platform Specialist | Kariyer.net**
+*(Current)*
+> Focusing on Metadata Governance, AI/LLM Optimization, and Cloud Data Processes.
+* **Governance:** Orchestrating metadata ingestion via YAML configurations on DataHub.
+* **AI Support:** Collaborating with dev teams to improve Text-to-SQL accuracy through prompt refinement.
+* **Automation:** Developing Python scripts to visualize data lineage from cloud pipelines.
+
+#### **Software Support Intern | LojiPlatform**
+*(May 2023 - Oct 2023)*
+* Developed customized **Odoo** modules using Python and XML.
+* Gained hands-on experience in backend processes and database logic.
+
+---
+
+### 🧩 Featured Analysis Projects
+
+| Project | Tech Stack | Impact |
+| :--- | :--- | :--- |
+| **Sales & Profitability Analysis** | Power BI, SQL, DAX | [cite_start]Revealed a **1.02B TRY net loss** in a top-selling brand despite high revenue. |
+| **Azure Dataflow Parser** | Python, JSON | *(Concept Demo)* Extracts lineage mapping from Azure Synapse metadata files. |
+
+---
+
+<div align="center">
+  <i>"I'm a debugger at heart; whether it's an LLM hallucination or a broken pipeline, I dig until I find the root cause."</i>
+</div>
