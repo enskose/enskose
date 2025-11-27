@@ -22,7 +22,7 @@ Here are some ideas to get you started:
     <b>Bridging the gap between Data Engineering, Metadata Management & AI Operations.</b>
   </p>
 
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+  <a href="https://linkedin.com/in/eneskse/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="mailto:enskosel@gmail.com">
