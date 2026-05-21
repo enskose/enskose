@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <div align="center">
 
   <h1>Hi, I'm Enes Köse</h1>
-  <h3>Jr. Data Platform Specialist @ Kariyer.net</h3>
+  <h3>Jr. Data Engineer @ Kariyer.net</h3>
   
   <p>
     <b>Bridging the gap between Data Engineering, Metadata Management & AI Operations.</b>
